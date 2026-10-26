@@ -1,13 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050b14,50:0a2540,100:050b14&height=220&text=Hi,%20I'm%20No%20Name&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Developer%20%26%20Tech&descSize=24&descAlignY=66&descColor=cfd8e3" width="100%" />
-
 <a href="https://no-name-tech-murex.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=3B9EFF&center=true&vCenter=true&width=620&lines=Prime+Purge+Tech;Web+Apps+%26+Telegram+Bots;Process+Automation+Special" alt="Typing SVG" />
+  <img src="https://files.catbox.moe/xzx2dv.jpg" alt="Hi, I'm Prime Purge Tech" width="100%" />
 </a>
 
-<a href="https://no-name-tech-murex.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0a66c2?style=flat-square" /></a>
-<a href="https://t.me/GOD_NO_NAME"><img src="https://img.shields.io/badge/CONTACT-1f6feb?style=flat-square" /></a>
+<br/>
+
+**Process Automation Special**
+
+<a href="https://no-name-tech-murex.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0a66c2?style=for-the-badge" /></a>
+<a href="https://t.me/GOD_NO_NAME"><img src="https://img.shields.io/badge/CONTACT-1f6feb?style=for-the-badge" /></a>
 
 </div>
 
@@ -15,41 +17,40 @@
 
 ## About Me
 
-Je m'appelle **No Name**, développeur et tech, fondateur de **Prime Purge Tech**, l'entreprise que j'ai créée début 2026 et qui progresse chaque jour. Nous concevons des sites, des applications web, des bots Telegram et WhatsApp et des outils d'automatisation, avec un accent sur la rapidité, la clarté et le design.
+Je m'appelle **No Name**, développeur et tech, fondateur de **Prime Purge Tech**, l'entreprise que j'ai créée début 2026 et qui progresse chaque jour.
+
+Nous concevons des sites, des applications web, des bots Telegram et WhatsApp et des outils d'automatisation, avec un accent sur la rapidité, la clarté et le design.
 
 ### What Drives Me
 
-Avant, j'étais un purgeur : on m'appelait *No Name Prime*. Aujourd'hui, je suis devenu développeur et tout a changé. La philosophie reste la même : retirer le superflu et construire avec précision. Je crois en un code propre, des interfaces soignées et des projets qui résolvent de vrais problèmes.
+Avant, j'étais un purgeur : on m'appelait *No Name Prime*. Aujourd'hui, je suis développeur et tout a changé.
+
+La philosophie reste la même : retirer le superflu et construire avec précision.
 
 <br/>
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[He's Shop](https://hes-shop.vercel.app/)**
+### [He's Shop](https://hes-shop.vercel.app/)
 
 *Marketplace et store en ligne*
 
 Une boutique web au style Play Store, pensée pour distribuer des fichiers et des applications simplement.
 
 **Impact**
-- Une interface claire et rapide sur mobile
+- Interface claire et rapide sur mobile
 - Distribution centralisée des fichiers
 - Une marque He's reconnaissable
 
 **Tech Stack:** `HTML` · `CSS` · `JavaScript`
 
-</td>
-<td width="50%" valign="top">
+---
 
-**[He's TV](https://he-s-tv.vercel.app/)**
+### [He's TV](https://he-s-tv.vercel.app/)
 
 *Plateforme de streaming*
 
-Un site de streaming conçu pour regarder films et séries dans une interface simple et agréable.
+Un site de streaming pour regarder films et séries dans une interface simple et agréable.
 
 **Impact**
 - Navigation fluide par catégories
@@ -58,12 +59,9 @@ Un site de streaming conçu pour regarder films et séries dans une interface si
 
 **Tech Stack:** `HTML` · `CSS` · `JavaScript`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-**[He's Ban](https://hes-ban-v1.vercel.app/)**
+### [He's Ban](https://hes-ban-v1.vercel.app/)
 
 *Outil de bannissement, version 1*
 
@@ -76,25 +74,20 @@ Une application web dédiée à la gestion et au bannissement, avec une interfac
 
 **Tech Stack:** `HTML` · `CSS` · `JavaScript`
 
-</td>
-<td width="50%" valign="top">
+---
 
-**[Portfolio No Name](https://portfolio-kohl-zeta-45.vercel.app/)**
+### [Portfolio No Name](https://portfolio-kohl-zeta-45.vercel.app/)
 
 *Vitrine de Prime Purge Tech*
 
 Le portfolio qui présente l'entreprise, la team, les projets et tous les liens officiels.
 
 **Impact**
-- Une présentation claire de l'équipe
+- Présentation claire de l'équipe
 - Accès rapide aux chaînes et aux projets
 - Style tech animé
 
 **Tech Stack:** `HTML` · `CSS` · `JavaScript`
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -104,37 +97,15 @@ Le portfolio qui présente l'entreprise, la team, les projets et tous les liens 
 
 **Frontend Development**
 
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" width="48" /><br/><sub>React</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js" width="48" /><br/><sub>JavaScript</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=ts" width="48" /><br/><sub>TypeScript</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="48" /><br/><sub>HTML5</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="48" /><br/><sub>CSS3</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vite" width="48" /><br/><sub>Vite</sub></td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,vite&perline=6&theme=dark" />
 
 **Backend Development**
 
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br/><sub>Node.js</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=express" width="48" /><br/><sub>Express</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" width="48" /><br/><sub>Python</sub></td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python&perline=6&theme=dark" />
 
 **Deployment & DevOps**
 
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="48" /><br/><sub>Git</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github" width="48" /><br/><sub>GitHub</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48" /><br/><sub>Vercel</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="48" /><br/><sub>Netlify</sub></td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&perline=6&theme=dark" />
 
 </div>
 
@@ -144,10 +115,9 @@ Le portfolio qui présente l'entreprise, la team, les projets et tous les liens 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=prime-purge-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prime-purge-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api?username=prime-purge-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&card_width=400" width="100%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prime-purge-tech&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prime-purge-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&card_width=400" width="100%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prime-purge-tech&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%" />
 
@@ -162,10 +132,12 @@ const noName = {
   role: "Developer & Tech",
   company: "Prime Purge Tech",
   founded: 2026,
-  brands: ["He's Shop", "He's TV", "He's Ban"],
-  currentFocus: ["Web apps", "Telegram & WhatsApp bots", "Process automation"],
-  technologies: ["JavaScript", "TypeScript", "Node.js", "Python", "React"],
-  motto: "Strip away the unnecessary. Build with precision."
+  brands: ["He's Shop", "He's TV",
+           "He's Ban"],
+  focus: ["Web apps", "Bots",
+          "Automation"],
+  stack: ["JS", "TS", "Node.js",
+          "Python", "React"]
 };
 ```
 
@@ -175,14 +147,10 @@ const noName = {
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%"><img src="https://skillicons.dev/icons?i=telegram" width="48" /><br/><b>Communities</b><br/><sub>Telegram channels</sub></td>
-<td align="center" width="25%"><img src="https://skillicons.dev/icons?i=figma" width="48" /><br/><b>Design</b><br/><sub>Animated interfaces</sub></td>
-<td align="center" width="25%"><img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br/><b>Bots</b><br/><sub>Automation & tools</sub></td>
-<td align="center" width="25%"><img src="https://skillicons.dev/icons?i=vercel" width="48" /><br/><b>Side Projects</b><br/><sub>Learning & building</sub></td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Communities-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Design-1f6feb?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Bots-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Side%20Projects-0a3d62?style=for-the-badge&logo=vercel&logoColor=white" />
 
 </div>
 
