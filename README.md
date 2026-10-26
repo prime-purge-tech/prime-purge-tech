@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://no-name-tech-murex.vercel.app/">
-  <img src="https://files.catbox.moe/xzx2dv.jpg" alt="Prime Purge Tech" width="100%" />
+  <img src="https://files.catbox.moe/w92j13.jpg" alt="Prime Purge Tech" width="100%" />
 </a>
 
 </div>
@@ -12,9 +12,9 @@
   </a>
 </h1>
 
-<h3 align="center">Bienvenue, je suis No Name</h3>
+<h3 align="center">ʙɪᴇɴᴠᴇɴᴜᴇ, ᴊᴇ ꜱᴜɪꜱ ɴᴏ ɴᴀᴍᴇ</h3>
 
-<h2 align="center">About Me</h2>
+<h2 align="center">ᴀʙᴏᴜᴛ ᴍᴇ</h2>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=prime-purge-tech&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -22,14 +22,14 @@
 
 <br/>
 
-- **Fondateur** de Prime Purge Tech, créée début 2026 et qui progresse chaque jour
-- **Je développe** des sites, des applications web, des bots Telegram et WhatsApp
-- **Mes marques** : He's Shop, He's TV et He's Ban, présentes dans tous nos projets
-- **J'étais un purgeur** : on m'appelait No Name Prime, aujourd'hui je suis développeur
-- **Ma philosophie** : retirer le superflu et construire avec précision
-- **Parle-moi de** : JavaScript, Node.js, Python, React et automatisation
+- **ғᴏɴᴅᴀᴛᴇᴜʀ** ᴅᴇ ᴘʀɪᴍᴇ ᴘᴜʀɢᴇ ᴛᴇᴄʜ, ᴄʀééᴇ ᴅéʙᴜᴛ 2026 ᴇᴛ ǫᴜɪ ᴘʀᴏɢʀᴇꜱꜱᴇ ᴄʜᴀǫᴜᴇ ᴊᴏᴜʀ
+- **ᴊᴇ ᴅéᴠᴇʟᴏᴘᴘᴇ** ᴅᴇꜱ ꜱɪᴛᴇꜱ, ᴅᴇꜱ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴꜱ ᴡᴇʙ, ᴅᴇꜱ ʙᴏᴛꜱ ᴛᴇʟᴇɢʀᴀᴍ ᴇᴛ ᴡʜᴀᴛꜱᴀᴘᴘ
+- **ᴍᴇꜱ ᴍᴀʀǫᴜᴇꜱ** : ʜᴇ'ꜱ ꜱʜᴏᴘ, ʜᴇ'ꜱ ᴛᴠ ᴇᴛ ʜᴇ'ꜱ ʙᴀɴ, ᴘʀéꜱᴇɴᴛᴇꜱ ᴅᴀɴꜱ ᴛᴏᴜꜱ ɴᴏꜱ ᴘʀᴏᴊᴇᴛꜱ
+- **ᴊ'éᴛᴀɪꜱ ᴜɴ ᴘᴜʀɢᴇᴜʀ** : ᴏɴ ᴍ'ᴀᴘᴘᴇʟᴀɪᴛ ɴᴏ ɴᴀᴍᴇ ᴘʀɪᴍᴇ, ᴀᴜᴊᴏᴜʀᴅ'ʜᴜɪ ᴊᴇ ꜱᴜɪꜱ ᴅéᴠᴇʟᴏᴘᴘᴇᴜʀ
+- **ᴍᴀ ᴘʜɪʟᴏꜱᴏᴘʜɪᴇ** : ʀᴇᴛɪʀᴇʀ ʟᴇ ꜱᴜᴘᴇʀғʟᴜ ᴇᴛ ᴄᴏɴꜱᴛʀᴜɪʀᴇ ᴀᴠᴇᴄ ᴘʀéᴄɪꜱɪᴏɴ
+- **ᴘᴀʀʟᴇ-ᴍᴏɪ ᴅᴇ** : ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ, ɴᴏᴅᴇ.ᴊꜱ, ᴘʏᴛʜᴏɴ, ʀᴇᴀᴄᴛ ᴇᴛ ᴀᴜᴛᴏᴍᴀᴛɪꜱᴀᴛɪᴏɴ
 
-<h3 align="right">Follow Me on:</h3>
+<h3 align="right">ғᴏʟʟᴏᴡ ᴍᴇ ᴏɴ:</h3>
 
 <div align="right">
   <a href="https://t.me/GOD_NO_NAME"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -38,7 +38,7 @@
   <a href="https://t.me/HESSS_SUPPORT"><img src="https://img.shields.io/badge/HE'S%20SHOP-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
 
-<h2 align="center">Projects I Built</h2>
+<h2 align="center">ᴘʀᴏᴊᴇᴄᴛꜱ ɪ ʙᴜɪʟᴛ</h2>
 
 <div align="center">
   <a href="https://hes-shop.vercel.app/"><img src="https://img.shields.io/badge/HE'S%20SHOP-0a66c2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -47,7 +47,7 @@
   <a href="https://portfolio-kohl-zeta-45.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </div>
 
-<h2 align="center">Languages & Tools I Have Placed My Hands On</h2>
+<h2 align="center">ʟᴀɴɢᴜᴀɢᴇꜱ & ᴛᴏᴏʟꜱ ɪ ʜᴀᴠᴇ ᴘʟᴀᴄᴇᴅ ᴍʏ ʜᴀɴᴅꜱ ᴏɴ</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs&perline=7&theme=dark" />
@@ -55,7 +55,7 @@
   <img src="https://skillicons.dev/icons?i=express,python,git,github,vercel,netlify,vscode&perline=7&theme=dark" />
 </div>
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prime-purge-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&card_width=420" width="100%" />
@@ -63,7 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prime-purge-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&card_width=420" width="100%" />
 </div>
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -83,20 +83,20 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
 </div>
 
-<h2 align="center">Top Repositories</h2>
+<h2 align="center">ᴛᴏᴘ ʀᴇᴘᴏꜱɪᴛᴏʀɪᴇꜱ</h2>
 
 <div align="center">
   <a href="https://github.com/prime-purge-tech/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=prime-purge-tech&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" /></a>
   <a href="https://github.com/prime-purge-tech/NO-NAME-MD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=prime-purge-tech&repo=NO-NAME-MD&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" /></a>
 </div>
 
-<h2 align="center">Random Dev Quote</h2>
+<h2 align="center">ʀᴀɴᴅᴏᴍ ᴅᴇᴠ ǫᴜᴏᴛᴇ</h2>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
 </div>
 
-<h2 align="center">Support Us</h2>
+<h2 align="center">ꜱᴜᴘᴘᴏʀᴛ ᴜꜱ</h2>
 
 <div align="center">
   <a href="https://t.me/PRlME_PURGE_TECH"><img src="https://img.shields.io/badge/REJOINDRE%20LA%20CHAÎNE-FFDD00?style=for-the-badge&logo=telegram&logoColor=black" /></a>
@@ -105,5 +105,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://files.catbox.moe/w92j13.jpg" alt="Prime Purge Tech" width="100%" />
+  <img src="https://files.catbox.moe/xzx2dv.jpg" alt="Prime Purge Tech" width="100%" />
 </div>
